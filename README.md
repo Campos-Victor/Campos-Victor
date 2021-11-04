@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Campos-Victor
+- 👀 I’m into coding and learning new languages. 
+- 🌱 I’m currently learning C and Python, 
+- 💞️ I’m looking to collaborate on any fun project. 
